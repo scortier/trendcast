@@ -1,6 +1,6 @@
 # TrendCast - Get Trending News from Google
 
-### Useful Info :
+### Approaches :
 
 1. Options for getting data from external sources:
 
